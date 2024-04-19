@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\GymBackendUsingVS2022.props" />
+</Project>

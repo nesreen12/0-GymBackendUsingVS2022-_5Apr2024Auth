@@ -1,0 +1,6 @@
+@GymBackendUsingVS2022_HostAddress = http://localhost:5289
+
+GET {{GymBackendUsingVS2022_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

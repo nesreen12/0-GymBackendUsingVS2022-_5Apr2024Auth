@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GymBackendUsingVS2022", "GymBackendUsingVS2022\GymBackendUsingVS2022.csproj", "{C1C4237B-08A4-4E67-8A41-97E60A833774}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C1C4237B-08A4-4E67-8A41-97E60A833774}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1C4237B-08A4-4E67-8A41-97E60A833774}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1C4237B-08A4-4E67-8A41-97E60A833774}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1C4237B-08A4-4E67-8A41-97E60A833774}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {681EC9D4-B7B4-4B90-BFE8-0DAA9D04BEAB}
+	EndGlobalSection
+EndGlobal
